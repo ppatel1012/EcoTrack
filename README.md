@@ -7,4 +7,8 @@ A mobile app that helps users track and improve their sustainability habits thro
 ```
 flutter pub get
 flutter run
-``` 
+```
+
+Link to Demo Video
+https://youtube.com/shorts/aQH8t_QGJAQ?feature=share
+
